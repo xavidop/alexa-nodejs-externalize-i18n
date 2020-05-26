@@ -633,6 +633,8 @@ You can find more information about how to make queries with the AWS CLI [here](
 
 Internationalization takes place as a fundamental step in the design and development process, rather than as a subsequent addition, which can often involve a difficult and expensive process of reengineering. We have to take the correct decision in terms of i18n in the beginning of our development process.
 
+POEditor is freemium and you can start for free with 1000 strings. POEditor is not so expensive, it has a very affordable prices. You can check it [here](https://poeditor.com/pricing/).
+
 I hope this example project is useful to you.
 
 That's all folks!
